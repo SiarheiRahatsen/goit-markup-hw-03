@@ -6,6 +6,9 @@ body {
     --brand-color: #2196F3;
     --primary-color: #757575;
 }
+.container {
+    max-width: 1200px;
+}
 .link-studio {
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
