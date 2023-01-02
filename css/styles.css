@@ -74,7 +74,8 @@ body {
     background-color: var(--brand-color);
 }
 .main-section-one,
-.main-section-two {
+.main-section-two,
+.main-section-three {
     display: flex;
     list-style: none;
     justify-content: center;
