@@ -76,16 +76,18 @@ body {
 .main-section-one,
 .main-section-two,
 .main-section-three,
-.port-section-button,
-.port-section-images {
+.port-section-button {
     display: flex;
     list-style: none;
     justify-content: center;
     align-items: center;
 }
 .port-section-images {
+    display: flex;
+    list-style: none;
     flex-wrap: wrap;
     gap: 30px;
+    padding: 0px;
 }
 .title {
     font-weight: 700;
