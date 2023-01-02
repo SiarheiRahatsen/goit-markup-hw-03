@@ -73,6 +73,12 @@ body {
     color: #FFFFFF;
     background-color: var(--brand-color);
 }
+.main-section-one {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
 .title {
     font-weight: 700;
     font-size: 14px;
