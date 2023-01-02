@@ -20,11 +20,7 @@ body {
 .link-studio > span {
     color: var(--brand-color);
 }
-.site-nav {
-    display: flex;
-    list-style: none;
-}
-.site-contacts {
+.header-nav {
     display: flex;
     list-style: none;
 }
