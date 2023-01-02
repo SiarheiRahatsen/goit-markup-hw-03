@@ -20,6 +20,10 @@ body {
 .link-studio > span {
     color: var(--brand-color);
 }
+.site-nav {
+    display: flex;
+    list-style: none;
+}
 .site-nav .link {
     text-decoration: none;
     color: #212121;
