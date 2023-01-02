@@ -8,10 +8,12 @@ body {
 }
 .container {
     max-width: 1200px;
+    margin: 0 auto;
 }
 .section {
     padding-top: 94px;
-    padding-bottom: 94px;
+    padding-left: 215px;
+    padding-right: 215px;
 }
 .link-studio {
     text-decoration: none;
