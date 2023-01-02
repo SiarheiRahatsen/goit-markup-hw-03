@@ -73,7 +73,8 @@ body {
     color: #FFFFFF;
     background-color: var(--brand-color);
 }
-.main-section-one {
+.main-section-one,
+.main-section-two {
     display: flex;
     list-style: none;
     justify-content: center;
