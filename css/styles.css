@@ -23,6 +23,8 @@ body {
 .header-nav {
     display: flex;
     list-style: none;
+    justify-content: center;
+    align-items: center;
 }
 .site-nav {
     display: flex;
