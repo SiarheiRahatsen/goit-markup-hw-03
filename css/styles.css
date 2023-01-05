@@ -95,6 +95,12 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+.main-section-three {
+    margin: 0 auto;
+    padding: 0%;
+    justify-content: space-between;
+    align-items: center;
+}
 .port-section-images {
     display: flex;
     list-style: none;
