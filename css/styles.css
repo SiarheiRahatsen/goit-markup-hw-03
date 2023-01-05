@@ -82,7 +82,9 @@ body {
 .port-section-button {
     display: flex;
     list-style: none;
-    justify-content: center;
+}
+.main-section-one {
+    justify-content: space-between;
     align-items: center;
 }
 .port-section-images {
