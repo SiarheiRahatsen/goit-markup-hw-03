@@ -89,6 +89,12 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+.main-section-two {
+    margin: 0 auto;
+    padding: 0%;
+    justify-content: space-between;
+    align-items: center;
+}
 .port-section-images {
     display: flex;
     list-style: none;
