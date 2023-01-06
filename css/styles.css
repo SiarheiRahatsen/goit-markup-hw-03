@@ -110,11 +110,11 @@ body {
     gap: 30px;
     margin: 0 auto;
     padding: 0px;
-    align-content: center;
 }
 .post-section-item {
     flex-basis: calc((100% - 60px) / 3);
     padding: 0%;
+    background-color: aqua;
 }
 .port-section-button {
     justify-content: center;
