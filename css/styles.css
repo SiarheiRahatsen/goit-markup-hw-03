@@ -116,6 +116,10 @@ body {
     padding: 0%;
     background-color: aqua;
 }
+.post-section-detail {
+    margin: 0%;
+    padding: 0%;
+}
 .port-section-button {
     justify-content: center;
     align-items: center;
