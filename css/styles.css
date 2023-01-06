@@ -108,6 +108,7 @@ body {
     list-style: none;
     flex-wrap: wrap;
     gap: 30px;
+    margin: 0 auto;
     padding: 0px;
     align-content: center;
 }
