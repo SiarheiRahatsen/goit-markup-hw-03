@@ -114,6 +114,10 @@ body {
 .post-section-item {
     flex-basis: calc((100% - 60px) / 3);
 }
+.port-section-button {
+    justify-content: center;
+    align-items: center;
+}
 .title {
     font-weight: 700;
     font-size: 14px;
