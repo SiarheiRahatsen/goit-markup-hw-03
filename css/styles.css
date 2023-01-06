@@ -103,6 +103,11 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+.main-section-detail {
+    margin: 0 auto;
+    padding: 0;
+    background-color: #7e0f0f;
+}
 .port-section-images {
     display: flex;
     list-style: none;
