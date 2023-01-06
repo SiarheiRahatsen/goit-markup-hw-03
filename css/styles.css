@@ -114,6 +114,7 @@ body {
 }
 .post-section-item {
     flex-basis: calc((100% - 60px) / 3);
+    padding: 0%;
 }
 .port-section-button {
     justify-content: center;
