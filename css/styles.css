@@ -37,7 +37,6 @@ body {
 .site-nav {
     display: flex;
     list-style: none;
-    padding-left: 46px;
     padding-top: 32px;
     padding-bottom: 32px;
 }
@@ -48,6 +47,7 @@ body {
 .site-nav .link {
     text-decoration: none;
     color: #212121;
+    padding-left: 46px;
 }
 .site-nav .link:hover,
 .site-nav .link:focus,
