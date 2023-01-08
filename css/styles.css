@@ -158,6 +158,9 @@ body {
     letter-spacing: 0.03em;
     color: var(--primary-color);
 }
+.main-header {
+    border-bottom: #ECECEC;
+}
 .title-main {
     font-weight: 900;
     font-size: 44px;
