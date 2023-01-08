@@ -71,6 +71,7 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
     margin-left: 8px;
+    padding: 6px 22px 6px 22px;
     border-radius: 4px;
     background-color: #2c0ca0;
 }
