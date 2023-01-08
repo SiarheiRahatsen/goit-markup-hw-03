@@ -70,6 +70,8 @@ body {
     line-height: 1.63;
     text-align: center;
     letter-spacing: 0.03em;
+    margin-left: 8px;
+    border-radius: 4px;
 }
 .pointer-port:hover,
 .pointer-port:focus,
@@ -127,8 +129,6 @@ body {
 .port-section-button {
     justify-content: center;
     align-items: center;
-    margin-left: 8px;
-    border-radius: 4px;
 }
 .title {
     font-weight: 700;
