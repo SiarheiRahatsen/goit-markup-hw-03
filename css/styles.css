@@ -72,6 +72,7 @@ body {
     letter-spacing: 0.03em;
     margin-left: 8px;
     border-radius: 4px;
+    background-color: #2c0ca0;
 }
 .pointer-port:hover,
 .pointer-port:focus,
@@ -129,6 +130,7 @@ body {
 .port-section-button {
     justify-content: center;
     align-items: center;
+    background-color: #b113a4;
 }
 .title {
     font-weight: 700;
