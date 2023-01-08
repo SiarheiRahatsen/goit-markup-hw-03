@@ -33,7 +33,7 @@ body {
     display: flex;
     list-style: none;
     justify-content: left;
-    align-items: baseline;
+    align-items: center;
 }
 .site-nav {
     display: flex;
