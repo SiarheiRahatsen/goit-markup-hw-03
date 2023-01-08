@@ -44,6 +44,7 @@ body {
 .site-contacts {
     display: flex;
     list-style: none;
+    margin-left: 371px;
 }
 .site-nav .link {
     text-decoration: none;
@@ -179,6 +180,7 @@ body {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
+    padding-right: 50px;
 }
 .link-main:hover,
 .link-main:focus,
