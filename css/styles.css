@@ -145,6 +145,12 @@ body {
     margin: 0%;
     padding: 0%;
 }
+.post-section-caption {
+    margin: 0 auto;
+    padding: 20px 24px 20px 24px;
+    background-color: #5c0e66;
+    text-align: left;
+}
 .port-section-button {
     justify-content: center;
     align-items: center;
