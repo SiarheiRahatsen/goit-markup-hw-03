@@ -165,6 +165,9 @@ body {
     margin-bottom: 50px;
     background-color: #b113a4;
 }
+.card-image-no-gap {
+    display: block;
+}
 .title {
     font-weight: 700;
     font-size: 14px;
