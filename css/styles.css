@@ -220,7 +220,6 @@ body {
     line-height: 1.19;
     text-align: center;
     letter-spacing: 0.03em;
-    padding-bottom: 10px;
 }
 .main-item-prof {
     font-weight: 400;
@@ -229,6 +228,7 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--primary-color);
+    margin-top: 10px;
 }
 .text-num {
     font-weight: 500;
