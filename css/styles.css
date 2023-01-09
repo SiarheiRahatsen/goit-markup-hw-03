@@ -29,6 +29,10 @@ body {
 .link-studio > span {
     color: var(--brand-color);
 }
+.cont-foot {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
 .header-nav {
     display: flex;
     list-style: none;
