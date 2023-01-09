@@ -10,12 +10,10 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 auto;
-    border-style: dashed;
 }
 .section {
     padding-top: 94px;
     padding-bottom: 94px;
-    background-color: #4caf50;
 }
 .link-studio {
     text-decoration: none;
@@ -86,7 +84,6 @@ body {
     margin-left: 8px;
     padding: 6px 22px 6px 22px;
     border-radius: 4px;
-    background-color: #2c0ca0;
 }
 .pointer-port:hover,
 .pointer-port:focus,
@@ -122,14 +119,12 @@ body {
 .main-section-detail {
     margin: 0 auto;
     padding: 0;
-    background-color: #7e0f0f;
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 0px 0px 4px 4px;
 }
 .main-section-caption {
     margin: 0 auto;
     padding: 30px 70px 30px 70px;
-    background-color: #adb819;
     text-align: center;
 }
 .port-section-images {
@@ -143,7 +138,6 @@ body {
 .post-section-item {
     flex-basis: calc((100% - 60px) / 3);
     padding: 0%;
-    background-color: aqua;
 }
 .post-section-detail {
     margin: 0%;
@@ -152,7 +146,6 @@ body {
 .post-section-caption {
     margin: 0 auto;
     padding: 20px 24px 20px 24px;
-    background-color: #5c0e66;
     text-align: left;
     border-right: 1px solid #EEEEEE;
     border-bottom: 1px solid #EEEEEE;
@@ -163,7 +156,6 @@ body {
     align-items: center;
     margin-top: 0%;
     margin-bottom: 50px;
-    background-color: #b113a4;
 }
 .card-image-no-gap {
     display: block;
