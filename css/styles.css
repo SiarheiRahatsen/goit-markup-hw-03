@@ -176,7 +176,7 @@ body {
     color: var(--primary-color);
 }
 .main-header {
-    border-bottom: #ECECEC;
+    border-bottom: 1px solid #ECECEC;
 }
 .title-main {
     font-weight: 900;
