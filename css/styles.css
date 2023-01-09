@@ -150,6 +150,9 @@ body {
     padding: 20px 24px 20px 24px;
     background-color: #5c0e66;
     text-align: left;
+    border-right: 1px solid #EEEEEE;
+    border-bottom: 1px solid #EEEEEE;
+    border-left: 1px solid #EEEEEE;
 }
 .port-section-button {
     justify-content: center;
