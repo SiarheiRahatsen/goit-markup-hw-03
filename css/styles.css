@@ -124,7 +124,8 @@ body {
 }
 .main-section-caption {
     margin: 0 auto;
-    background-color: #4caf50;
+    padding: 30px 70px 30px 70px;
+    background-color: #adb819;
     text-align: center;
 }
 .port-section-images {
