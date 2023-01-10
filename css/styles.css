@@ -74,6 +74,7 @@ body {
     margin-top: 30px;
     margin-bottom: 200px;
     margin-left: 500px;
+    border: none;
 }
 .pointer-port {
     cursor: pointer;
