@@ -10,6 +10,7 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 auto;
+    border-style: dashed;
 }
 .section {
     padding-top: 94px;
